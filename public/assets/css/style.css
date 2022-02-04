@@ -1,0 +1,33 @@
+html{
+	position: relative;
+
+}
+
+.slider h3 {
+text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+
+}
+.slider h5{
+text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+
+}
+
+.Destination{
+text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+
+}
+
+
+section {
+	padding: 20px 0;
+}
+
+hr {
+	width: 500px;
+	border-top: 1px solid #999;
+}
+
+.tittle::before {
+	content: url(img/jadi/1.jpg) " ";
+}
+
